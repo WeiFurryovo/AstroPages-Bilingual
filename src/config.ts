@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/WeiFurryovo/AstroPages-Bilingual/",
+    url: "https://github.com/WeiFurryovo/AstroPages-Bilingual/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
